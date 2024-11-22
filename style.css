@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    border: 2px solid white;
+}
+.navbar-left{
+    padding-left: 50px;
+}
+.navbar-right{
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.a-element{
+    padding: 10px;
+    border: 2px solid white;
+    margin: 10px;
+}
+.Home{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 85vh;
+    border: 2px solid white;
+    
+    
+}
+.Home-left{
+    width: 50vw;
+    border: 10px solid white;
+    padding: 20px;
+    margin: 100px;
+   
+}
+.Home-right{
+    width: 50vw;
+    border: 10px solid white;
+    padding: 20px;
+    margin: 100px;
+
+   
+}
+.dp{
+    height: 205px;
+}
+.logo{
+    height: 90px;
+}
+
+
+
